@@ -1,0 +1,3 @@
+CREATE VIEW dim_shipping_carriers AS
+SELECT DISTINCT shipping_carriers
+FROM supply_chain
